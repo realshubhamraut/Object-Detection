@@ -1,2 +1,4 @@
 # pip install -U -r requirements.txt
 opencv-python
+YOLOv5
+tensorflow
